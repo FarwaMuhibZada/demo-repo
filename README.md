@@ -3,4 +3,8 @@ demo for github intro vedio
 
 
 ## sub header
-watching toturial videos
+watching toturial 
+
+## local development
+open index.html in your browser
+
